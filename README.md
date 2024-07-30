@@ -6,7 +6,7 @@
 
 Some audio examples can be found [here](https://xcyu-0903.github.io/ROSE-demo/).
 
-This work was accepted by *IEEE/ACM Transactions on Audio, Speech, and Language Processing*.
+This work was accepted by ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***.
 
 ## Prerequisites
 1. Python >= 3.6.
